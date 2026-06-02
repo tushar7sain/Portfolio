@@ -9,7 +9,7 @@
 ## Screenshots
 
 ###About-section 
-![About-section](./Screenshots/About-section)
+![About-section](./Screenshots/About-section.png)
 
 ###Skills-section
 ![About-section](./Screenshots/Skills-section)
