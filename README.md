@@ -12,7 +12,7 @@
 ![About-section](./Screenshots/About-section.png)
 
 ###Skills-section
-![About-section](./Screenshots/Skills-section)
+![About-section](./Screenshots/Skills-section.png)
 
 ## Author
 Tushar Sain
