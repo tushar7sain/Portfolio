@@ -37,6 +37,18 @@ body {
     color: #222;
     font-weight: 500;
 }
+.navbutton{
+    background-color: #2563eb;
+    font-size: 20px;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 10px ;
+    border: none;
+    cursor: pointer;
+}
+.navbutton:hover{
+    background-color: #0038b1;
+}
 
 /* Hero-section */
 .hero {
